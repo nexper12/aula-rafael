@@ -1,0 +1,7 @@
+-- Banco associado: bd_hortifruti#public
+-- Arquivo: pratica01.sql
+-- A conexão deste script deve ser feita pela lista de bancos da conexão do editor/cliente.
+-- A instrução de seleção do banco fica registrada como comentário porque não pode ser executada
+-- a partir do próprio banco bd_hortifruti.
+-- Exemplo de instrução registrada apenas como referência:
+-- \c bd_hortifruti
